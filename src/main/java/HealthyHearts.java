@@ -1,4 +1,4 @@
-//package com.tsguild.foundations.variables;
+// @Author Kenji Kaenbyou
 import java.util.Scanner;
 
 public class HealthyHearts {
