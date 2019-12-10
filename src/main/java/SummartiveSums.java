@@ -13,8 +13,8 @@ public class SummartiveSums {
         int a3s = aSum(a3);
         
         System.out.println("#1 Array Sum: " + a1s);
-        System.out.println("#1 Array Sum: " + a2s);
-        System.out.println("#1 Array Sum: " + a3s);
+        System.out.println("#2 Array Sum: " + a2s);
+        System.out.println("#3 Array Sum: " + a3s);
     }
     
     public static int aSum(int[] a) {

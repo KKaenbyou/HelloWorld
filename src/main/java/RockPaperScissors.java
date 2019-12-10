@@ -78,7 +78,7 @@ public class RockPaperScissors {
             
             System.out.println("Would you like to play again? y/n");
             playAgain = s.nextLine();
-            if(playAgain.equalsIgnoreCase("n")) {
+            if(playAgain.equalsIgnoreCase("n") || playAgain.equalsIgnoreCase("no")) {
                 System.out.println("Thank you for playing!");
                 System.exit(0);
             }
