@@ -6,7 +6,7 @@ public class ABeginning {
         System.out.println("Hello World!");
         System.out.println("Hello from the Guild!");
         System.out.println("Typing code is easier thn I thought...");
-        System.out.println("Typity Typity Type");
+        System.out.println("Type Type Type");
         System.out.println("After I finish typing,");
         System.out.println("I'll compile my code");
         System.out.println("And then when I run it,");
